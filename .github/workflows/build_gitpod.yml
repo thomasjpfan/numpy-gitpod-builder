@@ -1,3 +1,5 @@
+name: Build Docker images for Gitpod
+
 on:
   schedule:
     - cron: "0 0 * * *"
